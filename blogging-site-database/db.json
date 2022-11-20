@@ -64,7 +64,7 @@
     "blog_img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALCSURBVDjLlZJ7SJNRGMaF/i3on/6wUDfbvsLpUiO1tItamRUISdmFYEYaGQaikNlIvIdOp9JSI0ssXOrmdH5ONzek29AmanPenU2H5rYyNZqa5dP3CY1EQzrwcHjhPL/3Oee8TgCc/kfDjQTZJ2Uvt4vcZXS9uUFO7BiUEx6UcfugnJ1hIn1hazqO5gzm8qYAYzNRRhknBmTEHNX114TiALRC5oo23xNSPqPxnwDKyB5REAuW7ngsWtVYsigx25kAa2MwDKXekKcyUv+c3cgcaWo7CFt/Ln5YFZjruoCZNyGwyDiYrvfHdEsoFOmMwXUAyuhMqXVKdxHfTNVYNFdiTncaX98G47PmEGwt+2ElubCqw9FZwFp2AEZIgk0Zp6i7rth672N5VofvxkzYtGGwaI5gsskfo1VeMEs8YamnUihPoS3LfckBGJCy1Tb9eSxNl8M+ngz7YDQWes/B+ioYIzU+6H/GwYcSAibxntVrTClOoj6FMeEA6CtYk/PGm5g3puP9C0/01Higr9oPo5QsLX7QFbHQVbgb5ioWbKoTGJcEoTrJTeIAdDx0fzxMBmFmiA9DXQTItABoio9BncfERwkXM0pv6IuZeFkWiKRHUYgtiMDlzKP28GQu3/GIrwuY2m6xL5UiBbI7XNhNAnzpSUZLric68l1RWxmEtNpokAYReqZUELbGIUroBf9bzgLHL6iymUPtFT5ofxqFMU0i7GPpGCYvoejqNvByQtHQW4iG/mLQS6COgVB9gwYsrJkBakDqNAX7oBIEQJbMgbYkBKIrW3H2ng8Uhif4e8n1IhqwfgqlKYww6V03aKmJM7efwad3YTh8exfyVNeQo+KtmnOUvI0T/C1xolu6OMEVmjwOsrIJRAr2Il91fbUzvdP1mjfYSM/jXbeUx7rwS6NdLLyYnfbAOOefdGxK85Qe0Gd+Azr0uSlwBNX8AAAAAElFTkSuQmCC",
     "likes": "89-516-8261",
     "content": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-    "blogger_id": "98-190-2700",
+    "blogger_id": 1,
     "date_created": "09/04/2022"
   }, {
     "id": 2,
@@ -73,7 +73,7 @@
     "blog_img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKRSURBVDjLpZNrSNNRGIeVuaSLrW2NCozlSsrCvqifKrG1vyznRDLQMi9TsamsUCzvSWJKC0Ms0/I2hratmVbi3bLIysRZlgh9qFGuCKOF5KaonV9n+yAGokIHHs7hhd/zvofDcQHg8j8sW0wN2FpQJuVNl8u2QC3loEDMtUX7CYrXJDjrx8u6FcYlNVE83KbciOCiNISD9MDNRHaQf3lVQZWMgwYaVNNQqcwBF1dCBbhwlIczfpypVQWlgZvQVZUPS6cag7XpOBckQIZkB9IYEZIPcee02XL3FQU1scKfM98/YOpFFb72XseooRDm9quwmk3QKXdPvdOkrltRUBG9f8A6dBeTw0bY3+ooeufZatLhToLv8IpX2CZrYnsfTtXqVP6YHa7FzFirE/ubJrRk+sM3UHlfwNSsX1YgCNG586WNKZ7SPox9mYYhLwz6PLkTx/n5+G94Bj8BT1x3ni+u3vCPgH/c4OoRbIgXhg5g3GJHowXIGANSXgOJT4G4DkBTXolnMT7oFbPxgNlo7WDYuYuCAxH14ZKTahgHF1A9CqheESj7CZK6CWIfElwrqsRI5hHMtJeBjHfBps/AUJrvn55jbiqnYCR/38JkWzZu1rchvpN2pR0VjwhimglONREYw/fATsOokANZXKDECz/UQeiWsD45BaMFPsTaU4So5AYU99oQ3Qyc1hNEagkiagn66NjE1IKl61fhdlp3I07Be60qx5TjPa9QlMwHxPdDQUdPWELrCSGm6xIBGpq96AIr5bOShW6GZVl8BbM+xeNSbjF/V3hbtTBIMyFi7tlEwc1zIolxLjM0bv5l4l58y/LCZA4bH5Nc8VjuttDFsHLX/G0HIndm045mx9h0n3CEHfW/dpehdpL0UXsAAAAASUVORK5CYII=",
     "likes": "10-306-6506",
     "content": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
-    "blogger_id": "52-659-4401",
+    "blogger_id": 1,
     "date_created": "02/01/2022"
   }, {
     "id": 3,
